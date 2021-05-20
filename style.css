@@ -1,6 +1,5 @@
 body {
     background-image: url(imagemfundoinicio.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: right center;
-}
+    background-size: auto;
+    background-position-x: center;
